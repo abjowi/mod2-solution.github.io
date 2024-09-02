@@ -1,6 +1,4 @@
-# mod2-solution.github.io
-
-## Module 2 Coding Assignment
+# Module 2 Coding Assignment
 
 Coursera course: [HTML, CSS, and JavaScript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 

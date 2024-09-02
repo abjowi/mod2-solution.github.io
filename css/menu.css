@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+h1 {
+	text-align: center;
+	font-weight: 400;
+	font-family: "Gill Sans", sans-serif;
+}
+div {
+	font-family: Georgia, serif;
+	background-color: #dedede;
+	border: solid 1px black;
+}
+.item {
+	/*border-collapse: collapse;*/
+}
+#duck {
+	background-color: #eebb77;
+}
+#mutton {
+	background-color: #ff6644;
+}
+#locust {
+	background-color: #bbee77;
+}
