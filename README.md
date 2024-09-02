@@ -24,7 +24,7 @@ Here is what is required:
 	* [https://github.com/abjowi/mod2-assignment](https://github.com/abjowi/mod2-assignment)
 
 3. Create a folder in your repository that will serve as a container folder for you solution to this assignment. Suggested names: `module2-solution` or `mod2-solution`. Create an index file inside the solution container:
-	* [https://github.com/abjowi/mod2-assignment/blob/main/index.html](https://github.com/abjowi/mod2-assignment/blob/main/index.html)
+	* [https://github.com/abjowi/mod2-solution.gitub.io](https://github.com/abjowi/mod2-solution.github.io)
 
 4. The implementations of the page should follow the mockup illustrations shown below. You are provided 3 mockups:
 	* desktop
