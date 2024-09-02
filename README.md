@@ -30,6 +30,7 @@ Here is what is required:
 	* desktop
 	* tablet
 	* mobile
+  
 The implementation will be just __ONE__ webpage, not three. It will be a single, responsive page.
 
 5. The page must include a CSS stylesheet as a separate file. No inline styles allowed. the CSS file should be placed in a folder named css under the solution container, i.e., `mod2-assignment/css`
